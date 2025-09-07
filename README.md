@@ -21,6 +21,7 @@ Recursos:
 - [Python Machine Learning de Sebastian Raschka y Vahid Mirjalili](https://www.perlego.com/es/book/2152522/python-machine-learning-pdf)
 - [The Statistical Foundations of AI: Exploring LLMs Through Markov Chains](https://www.allaboutai.com/resources/exploring-llms-through-markov-chains/)
 - [Revealing Secrets Of Large Language Models And Generative AI Via Markov Chain Mathematics](https://www.forbes.com/sites/lanceeliot/2024/11/11/revealing-secrets-of-large-language-models-and-generative-ai-via-old-fashioned-markov-chain-mathematics/)
+- [How Math makes Machine Learning easy](https://www.youtube.com/watch?v=wOTFGRSUQ6Q)
 - [Redes neuronales google](Introducción a las redes neuronales - Google for Developers)
 - [¿Qué es una red neuronal? - AWS](https://aws.amazon.com/es/what-is/neural-network/)
 - [Matemáticas para Machine Learning — Álgebra lineal](https://medium.com/data-science-bolivia/matem%C3%A1ticas-para-machine-learning-algebra-lineal-d3b67b521aea)
